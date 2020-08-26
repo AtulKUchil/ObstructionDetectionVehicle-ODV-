@@ -18,7 +18,8 @@ sudo pip install pyserial
 ```
 
 ## Usage
-To receive serial input from HC05 Sensor, you will need to configure your Raspberry Pi. You can find all the steps in this video: (https://www.youtube.com/watch?v=PT2ryjQl3Ns)
+To receive serial input from HC05 Sensor, you will need to configure your Raspberry Pi. You can find all the steps in this video: https://www.youtube.com/watch?v=PT2ryjQl3Ns  
+These steps will disable your bluetooth adapter for file transfer but will allow serial input which can be used with a lot of IoT devices like Arduino, Esp8266,etc.
 
 ### step-1
 In the terminal type,
